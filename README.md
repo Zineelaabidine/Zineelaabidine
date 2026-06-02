@@ -87,4 +87,45 @@ ORDER  BY consistency DESC;
 
 </div>
 
+<!-- ====================== CONTRIBUTIONS ====================== -->
+## 🐍 Contribution Graph
+ 
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zineelaabidine/Zineelaabidine/output/github-contribution-grid-snake-dark.svg"/>
+  
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zineelaabidine/Zineelaabidine/output/github-contribution-grid-snake.svg"/>
+
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Zineelaabidine/Zineelaabidine/output/github-contribution-grid-snake.svg"/>
+
+</picture>
+
+</div>
+
+<!-- ====================== QUOTE ====================== -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
+  <img alt="quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</picture>
+
+</div>
+
+<!-- ====================== FOOTER ====================== -->
+## 🤝 Let's Connect
+
+```bash
+$ echo "Let's build something great together 🚀"
+$ whoami
+> Zineelaabidine · open to collaborations, open-source & cool SaaS ideas
+```
+
+<div align="center">
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=120&section=footer" alt="footer"/>
+
+</div>
