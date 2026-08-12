@@ -53,7 +53,7 @@ const ZineElAabidine = {
   <tr>
     <td align="center" width="120"><b>Databases</b></td>
     <td align="left">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="databases"/></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" alt="databases"/></a>
     </td>
   </tr>
   <tr>
